@@ -10,5 +10,9 @@
 - [NumPy](https://numpy.org/)
   - [Install](https://numpy.org/install/)
     - `pip install numpy`
-    
+
+- [Pandas](https://pandas.pydata.org/)
+  - [Install](https://pandas.pydata.org/docs/getting_started/index.html)
+    - `pip install pandas`
+
 - [Anaconda/](https://www.anaconda.com/)
