@@ -15,4 +15,9 @@
   - [Install](https://pandas.pydata.org/docs/getting_started/index.html)
     - `pip install pandas`
 
+- [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
+- [pypi.org openpyxl](https://pypi.org/project/openpyxl/)
+  - [Install](https://pypi.org/project/openpyxl/)
+    - `pip install openpyxl`
+
 - [Anaconda/](https://www.anaconda.com/)
