@@ -29,4 +29,7 @@
   - [Install](https://seaborn.pydata.org/installing.html)
     - `pip install seaborn`
 
+- [pypi scikit-learn](https://pypi.org/project/scikit-learn/)
+  - `pip install scikit-learn`
+
 - [Anaconda/](https://www.anaconda.com/)
