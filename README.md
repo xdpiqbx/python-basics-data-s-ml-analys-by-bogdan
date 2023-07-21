@@ -20,4 +20,9 @@
   - [Install](https://pypi.org/project/openpyxl/)
     - `pip install openpyxl`
 
+- [matplotlib](https://matplotlib.org/stable/)
+- [pypi.org matplotlib](https://pypi.org/project/matplotlib/)
+  - [Install](https://pypi.org/project/matplotlib/)
+    - `pip install matplotlib`
+
 - [Anaconda/](https://www.anaconda.com/)
