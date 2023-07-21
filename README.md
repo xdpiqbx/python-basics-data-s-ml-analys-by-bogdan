@@ -25,4 +25,8 @@
   - [Install](https://pypi.org/project/matplotlib/)
     - `pip install matplotlib`
 
+- [seaborn](https://seaborn.pydata.org/)
+  - [Install](https://seaborn.pydata.org/installing.html)
+    - `pip install seaborn`
+
 - [Anaconda/](https://www.anaconda.com/)
